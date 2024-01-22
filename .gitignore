@@ -1,3 +1,6 @@
 
 using jupyter/.ipynb_checkpoints/using_jupyter_(good)-checkpoint.ipynb
 using jupyter/.ipynb_checkpoints/using_jupyter_(need)-checkpoint.ipynb
+**/.ipynb_checkpoints/*
+*.DS_Store
+using jupyter , exercises/using_jupyter_(need),_exercises.ipynb
